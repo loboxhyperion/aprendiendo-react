@@ -1,0 +1,76 @@
+{
+  "Search": [
+    {
+      "Title": "X-Men Origins: Wolverine",
+      "Year": "2009",
+      "imdbID": "tt0458525",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjQwOGEzNjUtNDgwYS00NzUzLWJhZjAtNmFlNzY2YTQyOTllXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Wolverine",
+      "Year": "2013",
+      "imdbID": "tt1430132",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzg1MDQxMTQ2OF5BMl5BanBnXkFtZTcwMTk3MjAzOQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Deadpool & Wolverine",
+      "Year": "2024",
+      "imdbID": "tt6263850",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Wolverine and the X-Men",
+      "Year": "2008–2009",
+      "imdbID": "tt0772145",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzk4Nzg3NjMyMV5BMl5BanBnXkFtZTcwMjk3MjU0Mg@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "X-Men Origins: Wolverine",
+      "Year": "2009",
+      "imdbID": "tt1334106",
+      "Type": "game",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTk0NjA0NTAwMV5BMl5BanBnXkFtZTgwMjM0NTA3MDE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Wolverine",
+      "Year": "2011",
+      "imdbID": "tt1847521",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzNjMzMwOTEtYWIyYS00OTQxLWI3ZmYtODdjNDFiZGE0NjU1XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ultimate Wolverine vs. Hulk",
+      "Year": "2013",
+      "imdbID": "tt3152670",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjYyNDU4OGItZTQ1Zi00NTNlLWFlOGMtM2JmMWEwODExOWE4XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Code Name: Wolverine",
+      "Year": "1996",
+      "imdbID": "tt0115138",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyOTY2MTQxMl5BMl5BanBnXkFtZTcwODY3MjMyMQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Wolverine: Origin",
+      "Year": "2013",
+      "imdbID": "tt3077530",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmY3OWE1ODItYzYyYi00ODVhLTk2OGEtYWUxYjFlM2NmMDM3XkEyXkFqcGdeQXVyMjU4MjM2OTA@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Wolverine vs. Sabretooth",
+      "Year": "2014",
+      "imdbID": "tt3668942",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ3YjBmOTMtYjM3Yy00NzViLTk1MDktMGQzMGFmZmVhNWJmXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg"
+    }
+  ],
+  "totalResults": "66",
+  "Response": "True"
+}
